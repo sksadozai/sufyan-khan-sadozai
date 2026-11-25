@@ -46,7 +46,7 @@ const articles = [
   {
     id: "wealth-blessing-and-test",
     title: "Wealth: A Great Blessing, and a Great Test",
-    category: "Faith & Reflection",
+    category: "Faith and Reflection",
     date: "23 November 2026",
     language: "English · Urdu",
     excerpt: "Money is a tremendous blessing from Allah, but how we spend it determines whether we honor that blessing or fail the test.",
@@ -96,7 +96,7 @@ const articles = [
   {
     id: "arguing-with-the-ignorant",
     title: "Arguing With the Ignorant",
-    category: "Wisdom & Character",
+    category: "Wisdom and Character",
     date: "23 November 2026",
     language: "English · Urdu",
     excerpt: "Why arguing with someone driven by ego costs the knowledgeable person far more than the ignorant one—and why walking away is sometimes the greatest victory.",
@@ -202,7 +202,7 @@ const articles = [
   {
     id: "what-is-love-and-where-we-went-wrong",
     title: "What Is Love? And Where Did We Go Wrong in Understanding It?",
-    category: "Faith & Relationships",
+    category: "Faith and Relationships",
     date: "25 November 2026",
     language: "English · Urdu",
     excerpt: "Exploring Surah Ar-Rum (30:21) to understand why marriage is built not on fleeting emotional intensity, but on companionship, tranquility, intentional love, and mercy.",
